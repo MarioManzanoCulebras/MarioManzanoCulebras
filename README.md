@@ -7,3 +7,7 @@
 
 ## Find me at:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mario_Manzano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/mario-manzano-culebras-935525b9/)
+
+## Contact me:
+
+[![Email](https://img.shields.io/badge/mario_manzano-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:mario.manzano.culebras@gmail.com)
