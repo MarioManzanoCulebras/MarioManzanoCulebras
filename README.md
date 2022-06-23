@@ -1,5 +1,5 @@
-### 👋 Hi there, my name is Mario Manzano Culebras
-
+# 👋 Hi there, my name is Mario Manzano Culebras
+### I'm Senior Android Engineer working on Android applications for Santander Bank, EVO Bank, Culture Ministry of Spain.
 ## Skills:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
@@ -10,4 +10,4 @@
 
 ## Contact me:
 
-[![Email](https://img.shields.io/badge/mario_manzano-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:mario.manzano.culebras@gmail.com)
+[![Email](https://img.shields.io/badge/email-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:mario.manzano.culebras@gmail.com)
